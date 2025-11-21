@@ -1,5 +1,4 @@
-📚 nome repo: ****`db-challenge`
-****
+📚 nome repo: **`db-challenge`**
 Facciamo un ripasso approfondito dei concetti fondamentali sui Database Relazionali e MySQL.
 
 ### 1. Progettazione DB
